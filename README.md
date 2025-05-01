@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Profile Wordcloud ☁️
+### Areas of Focus ☁️
 
 <p align="center">
 <a href="https://github.com/Rikan-Saha/Rikan-Saha"><img src="https://github.com/Rikan-Saha/Rikan-Saha/blob/main/Area-of-focus.png?raw=true" alt="Example" width="100%"/></a>
