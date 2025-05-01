@@ -6,6 +6,7 @@
 <a href="https://github.com/Rikan-Saha/Rikan-Saha"><img src="https://github.com/Rikan-Saha/Rikan-Saha/blob/main/Area-of-focus.png?raw=true" alt="Example" width="100%"/></a>
 </p>
 
+<h3> 👨‍💻 Languages I use</h3>
 <!--START_SECTION:colourise-->
 <p align=center>
 <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
