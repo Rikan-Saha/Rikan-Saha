@@ -16,10 +16,13 @@
 ![JAVA](https://img.shields.io/badge/-JAVA-B00078?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![GNU Linear Programming Kit](https://img.shields.io/badge/-GLPK-00ADD8?style=for-the-badge&logo=gnu&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4A90E2?style=for-the-badge&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![UML](https://img.shields.io/badge/-UML-800080?style=for-the-badge&logo=uml&logoColor=white)
+
 <!--END_SECTION:colourise-->
 
 - 🔭 I’m currently working on [here](https://github.com/Rikan-Saha/Front-End-Mentor)...
