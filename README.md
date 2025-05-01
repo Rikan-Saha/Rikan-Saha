@@ -3,7 +3,7 @@
 Highly motivated Assistant Manager with 2+ years of experience in Model Risk Management and Governance within the Banking and Financial Services (BFS) sector. From client deliverable perspective, involved in the integration, aggregation, and assessment of Model Risk, while also managing the Model Inventory Reporting System (MIRS) for client in North America. Assisted client for developing/automating/maintaining and managing Model Risk Reporting solutions.
 Proven expertise in Data Analysis, Risk Management, and automation using Python, SQL, and Machine Learning techniques. Developed and implemented Streamlit applications and Python-based automation tools, improving process efficiency and reporting throughput. Strong foundation in Python, SQL, Machine Learning, Deep Learning, Data Structures and Algorithms, seeking to apply these skills to drive data-driven solutions.
 
-<h3> 👨‍💻 Languages I Use</h3>
+### 👨‍💻 Languages I Use
 <!--START_SECTION:colourise-->
 <p align=center>
   
@@ -31,11 +31,32 @@ Proven expertise in Data Analysis, Risk Management, and automation using Python,
 - **MRM AutoCheck using Natual Language Processing:**
 
 
+### Solving Problems With Code:
+
+#### 💡 [Problem Area 1 - e.g., Efficient Data Management]
+
+**My Solution:** [Link to a project that solves this problem]
+
+**How I Approached It:** [Briefly explain your approach and the technologies used.]
+
+**Impact/Potential:** [Mention the potential benefits or impact of your solution.]
+
+#### 📈 [Problem Area 2 - e.g., User Engagement in Web Applications]
+
+**My Solution:** [Link to a project that solves this problem]
+
+**How I Approached It:** [Briefly explain your approach and the technologies used.]
+
+**Key Skills Demonstrated:** [List the specific skills highlighted in this project.]
 
 
 
 
+### Areas of Focus
 
+<p align="center">
+<a href="https://github.com/Rikan-Saha/Rikan-Saha"><img src="https://github.com/Rikan-Saha/Rikan-Saha/blob/main/Area-of-focus.png?raw=true" alt="Example" width="100%"/></a>
+</p>
 
 
 
@@ -43,11 +64,7 @@ Proven expertise in Data Analysis, Risk Management, and automation using Python,
 
 ## Hi there 👋
 
-### Areas of Focus ☁️
 
-<p align="center">
-<a href="https://github.com/Rikan-Saha/Rikan-Saha"><img src="https://github.com/Rikan-Saha/Rikan-Saha/blob/main/Area-of-focus.png?raw=true" alt="Example" width="100%"/></a>
-</p>
 
 
 
