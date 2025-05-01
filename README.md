@@ -9,7 +9,7 @@
 <h3> 👨‍💻 Languages I use</h3>
 <!--START_SECTION:colourise-->
 <p align=center>
-<img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C"/>
 <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2b%2b"/>
 <img src="https://img.shields.io/badge/-JAVA-blue?style=for-the-badge&logo=openjdk"/>
