@@ -33,7 +33,7 @@ A passionate Business Analyst eager to contribute to innovative projects.
 <a href="https://github.com/Rikan-Saha/Rikan-Saha"><img src="https://github.com/Rikan-Saha/Rikan-Saha/blob/main/Area-of-focus.png?raw=true" alt="Example" width="100%"/></a>
 </p>
 
-<h3> 👨‍💻 Languages I use</h3>
+<h3> 👨‍💻 Languages I Use</h3>
 <!--START_SECTION:colourise-->
 <p align=center>
   
