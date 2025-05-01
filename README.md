@@ -1,3 +1,30 @@
+## Hi, I'm Rikan Saha! 👋
+
+Highly motivated Assistant Manager with 2+ years of experience in Model Risk Management and Governance within the Banking and Financial Services (BFS) sector. From client deliverable perspective, involved in the integration, aggregation, and assessment of Model Risk, while also managing the Model Inventory Reporting System (MIRS) for client in North America. Assisted client for developing/automating/maintaining and managing Model Risk Reporting solutions.
+Proven expertise in Data Analysis, Risk Management, and automation using Python, SQL, and Machine Learning techniques. Developed and implemented Streamlit applications and Python-based automation tools, improving process efficiency and reporting throughput. Strong foundation in Python, SQL, Machine Learning, Deep Learning, Data Structures and Algorithms, seeking to apply these skills to drive data-driven solutions.
+
+A passionate Business Analyst eager to contribute to innovative projects.
+
+### What I Can Do:
+
+- **Web/Desktop Application Creation:** [Briefly describe what you can do with this skill and link to a relevant demo project](#link-to-demo-1)
+- **Implement a Machine/Deep Learning Models:**
+- **Implement/Optimize Neural Networks:**
+- **Design & Analyse Algorithms:**
+- **Statistical Analysis:**
+- **MRM AutoCheck using Natual Language Processing:**
+
+
+
+
+
+
+
+
+
+
+
+
 ## Hi there 👋
 
 ### Areas of Focus ☁️
@@ -47,7 +74,6 @@ A passionate [Your Profession/Area of Expertise] eager to contribute to innovati
 - **[Skill 1]:** [Briefly describe what you can do with this skill and link to a relevant demo project](#link-to-demo-1)
 - **[Skill 2]:** [Briefly describe what you can do with this skill and link to a relevant demo project](#link-to-demo-2)
 - **[Skill 3]:** [Briefly describe what you can do with this skill and link to a relevant demo project](#link-to-demo-3)
-- ... (Add more key skills and demos)
 
 ### Featured Projects:
 
@@ -163,6 +189,3 @@ A [Your Profession/Area of Expertise] dedicated to building solutions that addre
 [Link to your LinkedIn Profile]
 [Link to your Portfolio (if you have one)]
 [Your Email Address]
-
-
-
