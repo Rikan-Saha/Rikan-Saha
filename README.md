@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/-LaTeX-80FF00?style=for-the-badge&logo=latex"/>
 <img src="https://img.shields.io/badge/-C++-00FF80?style=for-the-badge&logo=c%2b%2b"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=javascript)"/>
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
 <!--END_SECTION:colourise-->
