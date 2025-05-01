@@ -1,4 +1,11 @@
 ## Hi there 👋
+
+# Profile Wordcloud ☁️
+
+<p align="center">
+<a href="https://github.com/Rikan-Saha/Rikan-Saha"><img src="[https://github.com/Parply/profile-wordcloud/blob/master/.github/wordcloud.png](https://github.com/Rikan-Saha/Rikan-Saha/blob/main/Area-of-focus.png)?raw=true" alt="Example" width="100%"/></a>
+</p>
+
 - 🔭 I’m currently working on [here](https://github.com/Rikan-Saha/Front-End-Mentor)...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
