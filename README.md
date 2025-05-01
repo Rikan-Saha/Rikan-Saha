@@ -12,12 +12,13 @@
 <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C"/>
 <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2b%2b"/>
-<img src="https://img.shields.io/badge/-JAVA-blue?style=for-the-badge&logo=Java"/>
+<img src="https://img.shields.io/badge/-JAVA-blue?style=for-the-badge&logo=JAVA"/>
 <img src="https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/-LaTex-blue?style=for-the-badge&logo=latex"/>
 <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql"/>
 <img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/-UML-blue?style=for-the-badge&logo=uml"/>
 <!--END_SECTION:colourise-->
 
 - 🔭 I’m currently working on [here](https://github.com/Rikan-Saha/Front-End-Mentor)...
