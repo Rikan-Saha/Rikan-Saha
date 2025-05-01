@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/-LaTex-blue?style=for-the-badge&logo=latex"/>
 <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge&logo=sql"/>
 <img src="https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/-R-black?style=for-the-badge&logo=R"/>
-
 <!--END_SECTION:colourise-->
 
 - 🔭 I’m currently working on [here](https://github.com/Rikan-Saha/Front-End-Mentor)...
