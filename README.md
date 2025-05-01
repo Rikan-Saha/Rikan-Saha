@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/-C++-00FF80?style=for-the-badge&logo=c%2b%2b"/>
 <img src="https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=C"/>
-
+<img src="https://img.shields.io/badge/-R-blue?style=for-the-badge&logo=R"/>
 
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
