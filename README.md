@@ -29,6 +29,7 @@ Proven expertise in Data Analysis, Risk Management, and automation using Python,
 - **Design & Analyse Algorithms:**
 - **Statistical Analysis:**
 - **MRM AutoCheck using Natual Language Processing:**
+- **API Development:**
 
 
 ### Solving Problems With Code:
