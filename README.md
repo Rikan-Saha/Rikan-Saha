@@ -59,4 +59,3 @@ Proven expertise in Data Analysis, Risk Management, and automation using Python,
 <a href="https://github.com/Rikan-Saha/Rikan-Saha"><img src="https://github.com/Rikan-Saha/Rikan-Saha/blob/main/Area-of-focus.png?raw=true" alt="Example" width="100%"/></a>
 </p>
 
-
