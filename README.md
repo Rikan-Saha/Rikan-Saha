@@ -21,34 +21,6 @@ Proven expertise in Data Analysis, Risk Management, and automation using Python,
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 <!--END_SECTION:colourise-->
 
-### What I Can Do:
-
-- **Web/Desktop Application Creation:** [Briefly describe what you can do with this skill and link to a relevant demo project](#link-to-demo-1)
-- **Implement a Machine/Deep Learning Models:**
-- **Implement/Optimize Neural Networks:**
-- **Design & Analyse Algorithms:**
-- **Statistical Analysis:**
-- **MRM AutoCheck using Natual Language Processing:**
-- **API Development:**
-
-
-### Solving Problems With Code:
-
-#### 💡 [Problem Area 1 - e.g., Efficient Data Management]
-
-**My Solution:** [Link to a project that solves this problem]
-
-**How I Approached It:** [Briefly explain your approach and the technologies used.]
-
-**Impact/Potential:** [Mention the potential benefits or impact of your solution.]
-
-#### 📈 [Problem Area 2 - e.g., User Engagement in Web Applications]
-
-**My Solution:** [Link to a project that solves this problem]
-
-**How I Approached It:** [Briefly explain your approach and the technologies used.]
-
-**Key Skills Demonstrated:** [List the specific skills highlighted in this project.]
 
 
 
