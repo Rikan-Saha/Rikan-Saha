@@ -1,7 +1,8 @@
 ## Hi, I'm Rikan Saha! 👋
-
+<p align="justify"> 
 Highly motivated Assistant Manager with 2+ years of experience in Model Risk Management and Governance within the Banking and Financial Services (BFS) sector. From client deliverable perspective, involved in the integration, aggregation, and assessment of Model Risk, while also managing the Model Inventory Reporting System (MIRS) for client in North America. Assisted client for developing/automating/maintaining and managing Model Risk Reporting solutions.
 Proven expertise in Data Analysis, Risk Management, and automation using Python, SQL, and Machine Learning techniques. Developed and implemented Streamlit applications and Python-based automation tools, improving process efficiency and reporting throughput. Strong foundation in Python, SQL, Machine Learning, Deep Learning, Data Structures and Algorithms, seeking to apply these skills to drive data-driven solutions.
+</p>
 
 ### 👨‍💻 Languages I Used
 <!--START_SECTION:colourise-->
