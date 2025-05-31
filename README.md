@@ -5,7 +5,7 @@ Proven expertise in Data Analysis, Risk Management, and automation using Python,
 </p>
 
 ### On-Going Analytical Projects
-<p align="center">
+<p align="justify">
 I'm highly proficient in coding, with a solid foundation in both machine learning and deep learning algorithms. My expertise spans a wide range of analytical techniques, and you can see my capabilities in action by exploring my ongoing projects, which showcase practical applications of these skills.
 </p>
 
