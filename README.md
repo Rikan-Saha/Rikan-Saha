@@ -4,15 +4,6 @@ Highly motivated Assistant Manager with 2+ years of experience in Model Risk Man
 Proven expertise in Data Analysis, Risk Management, and automation using Python, SQL, and Machine Learning techniques. Developed and implemented Streamlit applications and Python-based automation tools, improving process efficiency and reporting throughput. Strong foundation in Python, SQL, Machine Learning, Deep Learning, Data Structures and Algorithms, seeking to apply these skills to drive data-driven solutions.
 </p>
 
-### On-Going Analytical Projects
-<p align="justify">
-I'm highly proficient in coding, with a solid foundation in both machine learning and deep learning algorithms. My expertise spans a wide range of analytical techniques, and you can see my capabilities in action by exploring my ongoing projects, which showcase practical applications of these skills.
-</p>
-
-- [Analysis on House-Price Prediction](https://github.com/Rikan-Saha/DS_ML/tree/main/House-Price)
-- [Analysis on Titanic Dataset](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic)
-- 
-
 ### 👨‍💻 Languages I Used
 <!--START_SECTION:colourise-->
 <p align=center>
@@ -31,7 +22,14 @@ I'm highly proficient in coding, with a solid foundation in both machine learnin
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 <!--END_SECTION:colourise-->
 
+### On-Going Analytical Projects
+<p align="justify">
+I'm highly proficient in coding, with a solid foundation in both machine learning and deep learning algorithms. My expertise spans a wide range of analytical techniques, and you can see my capabilities in action by exploring my ongoing projects, which showcase practical applications of these skills.
+</p>
 
+- [Analysis on House-Price Prediction](https://github.com/Rikan-Saha/DS_ML/tree/main/House-Price)
+- [Analysis on Titanic Dataset](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic)
+- 
 
 
 <!--
