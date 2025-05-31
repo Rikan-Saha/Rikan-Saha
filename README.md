@@ -10,7 +10,7 @@ I'm highly proficient in coding, with a solid foundation in both machine learnin
 </p>
 
 - [Analysis on House-Price Prediction](https://github.com/Rikan-Saha/DS_ML/tree/main/House-Price)
-- [Analysis on Titanic Dataset:](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic)
+- [Analysis on Titanic Dataset](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic)
 - 
 
 ### 👨‍💻 Languages I Used
