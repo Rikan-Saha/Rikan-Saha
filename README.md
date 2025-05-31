@@ -31,7 +31,7 @@ I'm highly proficient in coding, with a solid foundation in both machine learnin
 </p>
 
 <p align="justify">
-**Note:** Driven by a passion for creation, my latest analytical projects are consistently uploaded to this repository. Please check back for updated versions of current projects and entirely new initiatives.
+**Note:** Driven by a passion for creation, my latest analytical projects are consistently uploaded to this repository. Please check back for updated versions of current projects and entirely new initiatives. This README was last updated on May 31, 2025.
 </p>
 <!--
 ### Areas of Working/Learning
