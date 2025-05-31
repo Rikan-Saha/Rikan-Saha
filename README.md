@@ -25,13 +25,15 @@ Proven expertise in Data Analysis, Risk Management, and automation using Python,
 ### On-Going Analytical Projects
 <p align="justify">
 I'm highly proficient in coding, with a solid foundation in both machine learning and deep learning algorithms. My expertise spans a wide range of analytical techniques, and you can see my capabilities in action by exploring my ongoing projects, which showcase practical applications of these skills.
-</p>
 
 - [Analysis on House-Price Prediction](https://github.com/Rikan-Saha/DS_ML/tree/main/House-Price)
 - [Analysis on Titanic Dataset](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic)
 - 
+</p>
 
-
+<p align="justify">
+**Note:** Stay tuned! I'm constantly building and have exciting new projects launching here soon.
+</p>
 <!--
 ### Areas of Working/Learning
 
