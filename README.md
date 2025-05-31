@@ -28,7 +28,6 @@ I'm highly proficient in coding, with a solid foundation in both machine learnin
 
 - [Analysis on House-Price Prediction](https://github.com/Rikan-Saha/DS_ML/tree/main/House-Price)
 - [Analysis on Titanic Dataset](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic)
-- 
 </p>
 
 <p align="justify">
