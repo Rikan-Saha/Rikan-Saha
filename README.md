@@ -4,10 +4,13 @@ Highly motivated Assistant Manager with 2+ years of experience in Model Risk Man
 Proven expertise in Data Analysis, Risk Management, and automation using Python, SQL, and Machine Learning techniques. Developed and implemented Streamlit applications and Python-based automation tools, improving process efficiency and reporting throughput. Strong foundation in Python, SQL, Machine Learning, Deep Learning, Data Structures and Algorithms, seeking to apply these skills to drive data-driven solutions.
 </p>
 
-### Projects
+### On-Going Analytical Projects
+<p align="center">
+I'm highly proficient in coding, with a solid foundation in both machine learning and deep learning algorithms. My expertise spans a wide range of analytical techniques, and you can see my capabilities in action by exploring my ongoing projects, which showcase practical applications of these skills.
+</p>
 
--
-- [Analysis on Titanic Dataset:](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic) - Conducted an analytics project focused on comprehensive data analysis and predictive modeling. Implementing and evaluating various machine learning algorithms, including Logistic Regression, Decision Trees, and Naive Bayes. Hyperparameter tuning has also performed.
+- [Analysis on House-Price Prediction](https://github.com/Rikan-Saha/DS_ML/tree/main/House-Price) - Conducted an classification-focused analytics project. I have comprehensively done analysis and data visualization and predictive modeling. 
+- [Analysis on Titanic Dataset:](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic) - Conducted an classification-focused  analytics project focused on comprehensive data analysis and predictive modeling. Implementing and evaluating various machine learning algorithms, including Logistic Regression, Decision Trees, and Naive Bayes. Hyperparameter tuning has also performed.
 - 
 
 ### 👨‍💻 Languages I Used
