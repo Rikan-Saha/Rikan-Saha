@@ -34,10 +34,10 @@ I'm highly proficient in coding, with a solid foundation in both machine learnin
 
 
 
-
+<!--
 ### Areas of Working/Learning
 
-<!--<p align="center">
-<a href="https://github.com/Rikan-Saha/Rikan-Saha"><img src="https://github.com/Rikan-Saha/Rikan-Saha/blob/main/Area-of-focus.png?raw=true" alt="Example" width="100%"/></a> -->
+<p align="center">
+<a href="https://github.com/Rikan-Saha/Rikan-Saha"><img src="https://github.com/Rikan-Saha/Rikan-Saha/blob/main/Area-of-focus.png?raw=true" alt="Example" width="100%"/></a> 
 </p>
-
+-->
