@@ -6,7 +6,7 @@ Proven expertise in Data Analysis, Risk Management, and automation using Python,
 
 ### Projects
 
-- [Analysis on Titanic Dataset:](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic) - Conducted an analytics project focused on comprehensive data analysis and predictive modeling. Implementing and evaluating various machine learning algorithms, including Logistic Regression, Decision Trees, and Naive Bayes to better accuracy. Rigorous comparison of key performance metrics was conducted.
+- [Analysis on Titanic Dataset:](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic) - Conducted an analytics project focused on comprehensive data analysis and predictive modeling. Implementing and evaluating various machine learning algorithms, including Logistic Regression, Decision Trees, and Naive Bayes to better accuracy. Hyperparameter tuning has also performed.
 - 
 
 ### 👨‍💻 Languages I Used
