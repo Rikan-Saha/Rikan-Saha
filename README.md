@@ -29,7 +29,8 @@ I'm highly proficient in coding, with a solid foundation in both machine learnin
 - [Analysis on House-Price Prediction](https://github.com/Rikan-Saha/DS_ML/tree/main/House-Price)
 - [Analysis on Titanic Dataset](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic)
 </p>
-___________________________________________________________________________________
+
+---
 <p align="justify">
 **Note:** Driven by a passion for creation, my latest analytical projects are consistently uploaded to this repository. Please check back for updated versions of current projects and entirely new initiatives. This README was last updated on May 31, 2025.
 </p>
