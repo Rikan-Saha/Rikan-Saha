@@ -56,11 +56,9 @@ Feel free to reach out to me through any of the following platforms!
 * **Email:** [rikansaha1998@gmail.com](mailto:rikansaha1998@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/rikan-saha-9786ba171](https://www.linkedin.com/in/rikan-saha-9786ba171)
 ---
-<p align="justify">
   
 *Note: Driven by a passion for creation, my latest analytical projects are consistently uploaded to this repository. Please check back for updated versions of current projects and entirely new initiatives. This README was last updated on May 31, 2025.*
 
-</p>
 <!--
 ### Areas of Working/Learning
 
