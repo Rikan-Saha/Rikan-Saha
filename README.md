@@ -49,7 +49,7 @@ I'm highly proficient in coding, with a solid foundation in both machine learnin
 - [Analysis on Titanic Dataset](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic)
 </p>
 
-## Contact & Connect
+#### Contact & Connect
 
 Feel free to reach out to me through any of the following platforms!
 
