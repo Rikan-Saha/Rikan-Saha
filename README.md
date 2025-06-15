@@ -33,7 +33,7 @@ Highly fascinated by the Data & Advanced Analytics domain, particularly Machine 
 
 #### Target Coverage & Connectivity in Wireless Sensor Network
 - Built a Java Applet to simulate and solve the Target Coverage and Connectivity problem in Wireless Sensor Networks (WSN), determining the minimum number of sensors needed for target coverage and connectivity to base stations.
-- Integrated the GNU Linear Programming Kit (GLPK) solver for coverage optimization and employed f-factor approximation and the Steiner Tree Algorithm for efficient communication topology.
+- Integrated the GNU Linear Programming Kit (GLPK) solver for coverage optimization and employed f-factor approximation and the Steiner Tree Algorithm for optimum connection path between sensors and base stations.
 
 #### Market Basket Analysis
 - Built a Java Applet for Market Basket Analysis, identifying frequent item-sets and association rules in transaction data using the Apriori algorithm to extract insights into product associations.
