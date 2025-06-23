@@ -29,12 +29,14 @@ Highly fascinated by the Data & Advanced Analytics domain, particularly Machine 
   
 #### Brain Tumour Image Segmentation using Deep Learning
 - Conducted a comprehensive analysis of Deep Learning models for Brain Tumor Segmentation from MRI scans, comparing architectures like U-Net, FCNs, and CNNs to assist radiologists in detection and treatment planning.
+<!-----
 - Implemented models from scratch using Python and frameworks like TensorFlow and Keras, evaluating performance with metrics such as Dice Score Coefficient, Accuracy, Intersection over Union.
-
+---->
 #### Target Coverage & Connectivity in Wireless Sensor Network
 - Built a Java Applet to simulate and solve the Target Coverage and Connectivity problem in Wireless Sensor Networks (WSN), determining the minimum number of sensors needed for target coverage and connectivity to base stations.
+<!----
 - Integrated the GNU Linear Programming Kit (GLPK) solver for coverage optimization and employed f-factor approximation and the Steiner Tree Algorithm for optimum connection path between sensors and base stations.
-
+--->
 #### Market Basket Analysis
 - Built a Java Applet for Market Basket Analysis, identifying frequent item-sets and association rules in transaction data using the Apriori algorithm to extract insights into product associations.
 - The tool analyses customer purchase behaviour, generating rules like "customers who buy item A are likely to buy item B," supporting marketing and sales decision-making.
