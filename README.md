@@ -1,10 +1,10 @@
 ## Hi, I'm Rikan Saha! 👋
 <p align="justify"> 
-  Assistant Manager with 2+ years of dedicated experience in Model Risk Management and Governance within the Banking and Financial Services (BFS) sector.
+  Assistant Manager with 3 years of dedicated experience in Model Risk Management and Governance within the Banking and Financial Services (BFS) sector.
 
 Highly fascinated by the Data & Advanced Analytics domain, particularly Machine Learning and Data Science, I possess proven expertise in Data Analysis, Risk Management, Model Risk Operations and Automation. My technical toolkit includes Python, SQL, Machine Learning, and Deep Learning, complemented by a solid foundation in Data Structures and Algorithms. I have a track record of developing practical solutions, including building impactful Streamlit applications and various Python-based automation tools/scripts that have directly contributed to improved process efficiency, enhanced reporting capabilities, and the delivery of effective solutions. I am driven by continually applying and learning analytical and programming skills to deliver valuable, data-driven outcomes. 
 
-Beyond professional experience, I am an active contributor on platforms like LeetCode and Codeforces, consistently honing my algorithmic and coding skills. My passion for data is further reflected in my active participation on Kaggle, where I engage in real-world data science challenges.
+Beyond professional experience, I am an active contributor on open source platforms, consistently honing my algorithmic, technological, analysis, coding skills.
 
 </p>
 
