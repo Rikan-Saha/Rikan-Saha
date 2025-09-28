@@ -4,7 +4,7 @@
 
 Highly fascinated by the Data & Advanced Analytics domain, particularly Machine Learning and Data Science, I possess proven expertise in Data Analysis, Risk Management, Model Risk Operations and Automation. My technical toolkit includes Python, SQL, Machine Learning, and Deep Learning, complemented by a solid foundation in Data Structures and Algorithms. I have a track record of developing practical solutions, including building impactful Streamlit applications and various Python-based automation tools/scripts that have directly contributed to improved process efficiency, enhanced reporting capabilities, and the delivery of effective solutions. I am driven by continually applying and learning analytical and programming skills to deliver valuable, data-driven outcomes. 
 
-Beyond professional experience, I am an active contributor on open source platforms, consistently honing my algorithmic, technological, analysis, coding skills.
+Beyond professional experience, I am an active contributor on open source platforms, consistently honing my technological, data analysis, algorithmic, coding skills.
 
 </p>
 
