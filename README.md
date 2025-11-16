@@ -28,6 +28,7 @@ Beyond professional experience, I am an active contributor on open source platfo
 
 ### Own Projects
 - Built a Chrome extension that summarizes webpage content and provides a dynamic Q&A feature using Hugging Face models, optimizing speed, accuracy, and user experience. [Link](https://github.com/Rikan-Saha/Artificial-Intelligence)
+- Market Regime Analysis and Detection using clustering technique. [Link]()
  
 
 ### College Projects
