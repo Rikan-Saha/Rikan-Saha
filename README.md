@@ -27,8 +27,8 @@ Beyond professional experience, I am an active contributor on open source platfo
 <!--END_SECTION:colourise-->
 
 ### Own Projects
-- Built a Chrome extension that summarizes webpage content and provides a dynamic Q&A feature using Hugging Face models, optimizing speed, accuracy, and user experience. [Link](https://github.com/Rikan-Saha/Artificial-Intelligence)
-- Market Regime Analysis and Detection using clustering technique. [Link]()
+- **LLM based Chrome Extension**: Built a Chrome extension that summarizes webpage content and provides a dynamic Q&A feature using Hugging Face models, optimizing speed, accuracy, and user experience. [Link](https://github.com/Rikan-Saha/Artificial-Intelligence)
+- **Market Regime Analysis & Detection (ML + Time-Series)**: Developed a complete pipeline for analyzing financial market regimes using a combination of time-series forecasting models and clustering algorithms. The system generates forward-looking indicators, identifies market states such as bullish, bearish, or high-volatility regimes, and enables insights for risk-aware investment strategies. [Link]()
  
 
 ### College Projects
