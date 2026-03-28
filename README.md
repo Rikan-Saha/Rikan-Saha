@@ -41,6 +41,7 @@ Skilled at translating complex analytical outputs into clear, actionable insight
   
 #### Brain Tumour Image Segmentation using Deep Learning
 - Conducted a comprehensive analysis of Deep Learning models for Brain Tumor Segmentation from MRI scans, comparing architectures like U-Net, FCNs, and CNNs to assist radiologists in detection and treatment planning.
+- Implement Brain Tumor Segmentation framework using Reinforcement.
 <!-----
 - Implemented models from scratch using Python and frameworks like TensorFlow and Keras, evaluating performance with metrics such as Dice Score Coefficient, Accuracy, Intersection over Union.
 ---->
