@@ -32,9 +32,10 @@ Skilled at translating complex analytical outputs into clear, actionable insight
 <!--END_SECTION:colourise-->
 
 ### Projects
-1. **LLM based Chrome Extension**: Built a Chrome extension that summarizes webpage content and provides a dynamic Q&A feature using Hugging Face models, optimizing speed, accuracy, and user experience. [Link](https://github.com/Rikan-Saha/Artificial-Intelligence)
-2. **Market Regime Analytics & Forecasting System | Python, SQLite, Scikit-Learn, Statsmodels, Power BI** | Designed an end-to-end macroeconomic analytics pipeline to identify market regimes (Expansion, Recession, Stagflation) using clustering on IMF data. Implemented feature engineering, K-Means–based regime detection, and time-series forecasting for GDP growth, inflation, and unemployment. Integrated outputs into a SQLite database and developed interactive Power BI dashboards for trend analysis, regime visualization, and forward-looking economic insights. [Link](https://github.com/Rikan-Saha/Market-Regime-Analytics)
- 
+<!----1. ****: Built a Chrome extension that summarizes webpage content and provides a dynamic Q&A feature using Hugging Face models, optimizing speed, accuracy, and user experience.--> 
+1. **Market Regime Analytics & Forecasting System | Python, SQLite, Scikit-Learn, Statsmodels, Power BI** | Designed an end-to-end macroeconomic analytics pipeline to identify market regimes (Expansion, Recession, Stagflation) using clustering on IMF data. Implemented feature engineering, K-Means–based regime detection, and time-series forecasting for GDP growth, inflation, and unemployment. Integrated outputs into a SQLite database and developed interactive Power BI dashboards for trend analysis, regime visualization, and forward-looking economic insights. [Link](https://github.com/Rikan-Saha/Market-Regime-Analytics)
+
+**Others:** LLM based Chrome Extension [Link](https://github.com/Rikan-Saha/Artificial-Intelligence), 
 
 ### College Projects
 <p align "Justify">
