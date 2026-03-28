@@ -1,10 +1,14 @@
 ## Hi, I'm Rikan Saha! 👋
 <p align="justify"> 
-  Assistant Manager with 3 years of dedicated experience in Model Risk Management and Governance within the Banking and Financial Services (BFS) sector.
+  <!--Assistant Manager with 3 years of dedicated experience in Model Risk Management and Governance within the Banking and Financial Services (BFS) sector.
 
 Highly fascinated by the Data & Advanced Analytics domain, particularly Machine Learning and Data Science, I possess proven expertise in Data Analysis, Risk Management, Model Risk Operations and Automation. My technical toolkit includes Python, SQL, Machine Learning, and Deep Learning, complemented by a solid foundation in Data Structures and Algorithms. I have a track record of developing practical solutions, including building impactful Streamlit applications and various Python-based automation tools/scripts that have directly contributed to improved process efficiency, enhanced reporting capabilities, and the delivery of effective solutions. I am driven by continually applying and learning analytical and programming skills to deliver valuable, data-driven outcomes. 
 
-Beyond professional experience, I am an active contributor on open source platforms, consistently honing my technological, data analysis, algorithmic, coding skills.
+Beyond professional experience, I am an active contributor on open source platforms, consistently honing my technological, data analysis, algorithmic, coding skills.-->
+
+Results-driven Analytics Engineer with 3+ years of experience in Model Risk Management (MRM) for North American banking clients, specializing in Python-driven analytics, Power BI & Excel-based reporting, and AI-enabled automation. 
+Proven expertise in designing and automating model governance and reporting pipelines, ensuring data integrity, and delivering executive-level dashboards and decision-ready insights.
+Skilled at translating complex analytical outputs into clear, actionable insights for senior stakeholders. Hands-on experience leveraging Python for data processing, reporting automation, and risk analytics, combined with Power BI for visualization and AI techniques (LLMs/RAG) to enhance efficiency and reduce manual effort in reporting workflows.
 
 </p>
 
