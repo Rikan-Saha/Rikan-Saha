@@ -37,6 +37,8 @@ Skilled at translating complex analytical outputs into clear, actionable insight
 
 2. **AI Product Review Analytics System | Python, FastAPI, Streamlit, Scikit-Learn, NLP** | Designed an end-to-end analytics pipeline to process and analyze large-scale product reviews from CSV data. Implemented data ingestion, sentiment analysis, TF-IDF–based text embeddings, and K-Means clustering to identify key customer pain points. Developed an AI-driven recommendation module to generate actionable product improvement insights. Integrated the pipeline with a FastAPI backend and built an interactive Streamlit dashboard with dynamic visualizations for real-time insight exploration. [Link](https://github.com/Rikan-Saha/Product-Review-Analytics)
 
+3. **Wasserstein KMeans Clustering System | Python, FastAPI, NumPy, Plotly, Pydantic** | Designed an end-to-end machine learning pipeline for clustering distribution-based data using a custom Wasserstein KMeans algorithm. Implemented synthetic data generation, Wasserstein distance computation, and iterative clustering logic to group probability distributions effectively. Built a modular FastAPI backend for real-time inference and integrated interactive Plotly-based visualizations for cluster analysis and interpretability. Enabled seamless usage across notebooks and API for experimentation and deployment. [Link](https://github.com/Rikan-Saha/Clustering-using-Wasserstein-Distance)
+
 **Others:** LLM based Chrome Extension [Link](https://github.com/Rikan-Saha/Artificial-Intelligence), 
 
 ### College Projects
