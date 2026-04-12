@@ -7,9 +7,7 @@ Highly fascinated by the Data & Advanced Analytics domain, particularly Machine 
 Beyond professional experience, I am an active contributor on open source platforms, consistently honing my technological, data analysis, algorithmic, coding skills.-->
 
 <p align="justify"> 
-Results-driven Analytics Engineer with 3+ years of experience in Model Risk Management (MRM) for North American banking clients, specializing in Python-driven analytics, Power BI & Excel-based reporting, and AI-enabled automation. 
-Proven expertise in designing and automating model governance and reporting pipelines, ensuring data integrity, and delivering executive-level dashboards and decision-ready insights.
-Skilled at translating complex analytical outputs into clear, actionable insights for senior stakeholders. Hands-on experience leveraging Python for data processing, reporting automation, and risk analytics, combined with Power BI for visualization and AI techniques (LLMs/RAG) to enhance efficiency and reduce manual effort in reporting workflows.
+Results-driven Analytics Engineer with 3+ years of experience in Model Risk Management (MRM), specializing in Python-driven analytics, Power BI & Excel-based reporting, and AI-enabled automation. Proven expertise in designing and automating model governance and reporting pipelines, ensuring data integrity, and delivering executive-level dashboards and decision-ready insights. Skilled at translating complex analytical outputs into clear, actionable insights. Hands-on experience leveraging Python for data processing, reporting automation, and risk analytics, combined with Power BI for visualization and AI techniques (LLMs/RAG) to enhance efficiency and reduce manual effort in reporting workflows.
 
 </p>
 
