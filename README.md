@@ -1,4 +1,4 @@
-## Hi, I'm Rikan Saha! 👋
+<!----## Hi, I'm Rikan Saha! 👋
 
 <!--Assistant Manager with 3 years of dedicated experience in Model Risk Management and Governance within the Banking and Financial Services (BFS) sector.
 
@@ -40,6 +40,7 @@ Results-driven Analytics & AI Engineer with 3+ years of experience in Model Risk
 
 **Others:** LLM based Chrome Extension [Link](https://github.com/Rikan-Saha/Artificial-Intelligence), 
 
+<!----
 ### College Projects
 <p align "Justify">
   
