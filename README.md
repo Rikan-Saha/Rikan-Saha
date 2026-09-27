@@ -49,12 +49,12 @@ Results-driven Analytics & AI Engineer with 3+ years of experience in Model Risk
 - Implement Brain Tumor Segmentation framework using Reinforcement.
 <!-----
 - Implemented models from scratch using Python and frameworks like TensorFlow and Keras, evaluating performance with metrics such as Dice Score Coefficient, Accuracy, Intersection over Union.
----->
+
 #### Target Coverage & Connectivity in Wireless Sensor Network
 - Built a Java Applet to simulate and solve the Target Coverage and Connectivity problem in Wireless Sensor Networks (WSN), determining the minimum number of sensors needed for target coverage and connectivity to base stations.
 <!----
 - Integrated the GNU Linear Programming Kit (GLPK) solver for coverage optimization and employed f-factor approximation and the Steiner Tree Algorithm for optimum connection path between sensors and base stations.
---->
+
 #### Market Basket Analysis
 - Built a Java Applet for Market Basket Analysis, identifying frequent item-sets and association rules in transaction data using the Apriori algorithm to extract insights into product associations.
 - The tool analyses customer purchase behaviour, generating rules like "customers who buy item A are likely to buy item B," supporting marketing and sales decision-making.
@@ -69,7 +69,7 @@ I'm proficient in coding, with a solid foundation in data analytics. My expertis
 - [Analysis on House-Price Prediction](https://github.com/Rikan-Saha/DS_ML/tree/main/House-Price)
 - [Analysis on Titanic Dataset](https://github.com/Rikan-Saha/DS_ML/tree/main/Titanic)
 </p>
---->
+
 #### Contact & Connect
 
 Feel free to reach out to me through any of the following platforms!
