@@ -12,7 +12,7 @@ Results-driven Analytics & AI Engineer with 3+ years of experience in Model Risk
 </p>
 
 ### 👨‍💻 Languages I Used
-<!--START_SECTION:colourise-->
+<!--START_SECTION:colourise
 <p align=center>
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
