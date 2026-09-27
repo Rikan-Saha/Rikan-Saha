@@ -4,7 +4,7 @@
 
 Results-driven Analytics & AI Engineer with 3+ years of experience in Model Risk Management (MRM), with prior experience supporting North American banking clients and a current focus on AI-driven analytics solutions. Specializing in Python-driven data analytics, Model Development, Power-BI & Excel-based regulatory reporting, and AI-enabled automation. Designed and developed end-to-end analytics and AI solutions across risk and product domains, including automated pipelines, LLM and Agentic AI–based applications, and interactive dashboards for insight generation and workflow automation, with a keen interest in building scalable AI-driven analytics and intelligent decision-support systems.
 
-Beyond professional experience, I am an active contributor on open source platforms, consistently honing my technological, data analysis, algorithmic, coding skills.-->
+Beyond professional experience, I am an active contributor on open source platforms, consistently honing my technological, data analysis, algorithmic, coding skills.
 
 <p align="justify"> 
 Results-driven Analytics & AI Engineer with 3+ years of experience in Model Risk Management (MRM), with prior experience supporting North American banking clients and a current focus on AI-driven analytics solutions. Specializing in Python-driven data analytics, Model Development, Power-BI & Excel-based regulatory reporting, and AI-enabled automation. Designed and developed end-to-end analytics and AI solutions across risk and product domains, including automated pipelines, LLM and Agentic AI–based applications, and interactive dashboards for insight generation and workflow automation, with a keen interest in building scalable AI-driven analytics and intelligent decision-support systems.
